@@ -1,0 +1,2 @@
+/Users/q/Desktop/KOI/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/q/Desktop/KOI/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
